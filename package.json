@@ -1,0 +1,19 @@
+{
+  "name": "asterisk-shell-f",
+  "version": "1.0.0",
+  "description": "Asterisk shell functions Linux",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "author": "Fernando Enrique Zepeda Castellanos",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "util": "^0.12.3"
+  }
+}
