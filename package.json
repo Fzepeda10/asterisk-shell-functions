@@ -1,6 +1,6 @@
 {
   "name": "asterisk-shell-f",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "description": "Asterisk shell functions Linux",
   "main": "lib/index.js",
   "types": "lib",
